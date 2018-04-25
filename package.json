@@ -1,6 +1,6 @@
 {
   "name": "nitro-redux-thunk",
-  "version": "0.3.0",
+  "version": "1.0.0",
   "description": "redux-thunk rewritten for redux 4.0.0",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
